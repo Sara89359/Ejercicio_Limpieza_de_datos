@@ -1,10 +1,10 @@
 # Práctica de Data Cleaning
 
-📘 Descripción del proyecto
+📘 Descripción del proyecto <br>
 Este repositorio contiene una práctica de data cleaning realizada como parte del bootcamp de Data Analytics. La actividad está inspirada en una píldora formativa creada por una compañera del bootcamp, y tiene como objetivo aplicar técnicas de limpieza, exploración y preparación de datos para su posterior análisis.
 El propósito principal es reforzar conceptos clave del preprocesamiento de datos y documentar el flujo de trabajo seguido durante la práctica.
 
-🎯 Objetivos de la práctica
+🎯 Objetivos de la práctica <br>
 • 	Identificar problemas comunes en datasets reales: valores nulos, duplicados, inconsistencias y outliers.
 • 	Aplicar técnicas de limpieza utilizando herramientas de análisis de datos.
 • 	Documentar el proceso de transformación paso a paso.
@@ -17,9 +17,9 @@ El propósito principal es reforzar conceptos clave del preprocesamiento de dato
 • 	Jupyter Notebook — Entorno interactivo para documentar el proceso.
 • 	VS Code — Editor utilizado para organizar el proyecto.
 
-🤝 Créditos y agradecimientos
+🤝 Créditos y agradecimientos <br>
 Esta práctica está creada por una compañera del bootcamp (Gracias Eva!).
 
-✨ Autoría
+✨ Autoría <br>
 Sara
 Estudiante del bootcamp Data Analytics.
